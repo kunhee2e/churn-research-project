@@ -23,6 +23,7 @@ results/tables/*.csv
 
 # 맥 시스템 파일
 .DS_Store
+*.textClipping
 
 # 자격증명 (절대 커밋 금지)
 kaggle.json
